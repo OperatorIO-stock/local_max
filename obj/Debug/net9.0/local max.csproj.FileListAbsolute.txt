@@ -1,0 +1,15 @@
+/home/operatorio/Документы/meCodes/local max/bin/Debug/net9.0/local max
+/home/operatorio/Документы/meCodes/local max/bin/Debug/net9.0/local max.deps.json
+/home/operatorio/Документы/meCodes/local max/bin/Debug/net9.0/local max.runtimeconfig.json
+/home/operatorio/Документы/meCodes/local max/bin/Debug/net9.0/local max.dll
+/home/operatorio/Документы/meCodes/local max/bin/Debug/net9.0/local max.pdb
+/home/operatorio/Документы/meCodes/local max/obj/Debug/net9.0/local max.GeneratedMSBuildEditorConfig.editorconfig
+/home/operatorio/Документы/meCodes/local max/obj/Debug/net9.0/local max.AssemblyInfoInputs.cache
+/home/operatorio/Документы/meCodes/local max/obj/Debug/net9.0/local max.AssemblyInfo.cs
+/home/operatorio/Документы/meCodes/local max/obj/Debug/net9.0/local max.csproj.CoreCompileInputs.cache
+/home/operatorio/Документы/meCodes/local max/obj/Debug/net9.0/local max.sourcelink.json
+/home/operatorio/Документы/meCodes/local max/obj/Debug/net9.0/local max.dll
+/home/operatorio/Документы/meCodes/local max/obj/Debug/net9.0/refint/local max.dll
+/home/operatorio/Документы/meCodes/local max/obj/Debug/net9.0/local max.pdb
+/home/operatorio/Документы/meCodes/local max/obj/Debug/net9.0/local max.genruntimeconfig.cache
+/home/operatorio/Документы/meCodes/local max/obj/Debug/net9.0/ref/local max.dll
