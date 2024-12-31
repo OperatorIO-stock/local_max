@@ -23,9 +23,6 @@ class Program
         if (numbers[0] > numbers[1])
             Console.WriteLine($"The local max: {numbers[0]}");
 
-        else
-            Console.WriteLine($"The local max: {numbers[1]}");
-
         for (int i = 1; i < lastIndex - 1; i++)
         {
             if (numbers[i] > numbers[i - 1])
@@ -39,8 +36,6 @@ class Program
         {
             if (numbers[lastIndex] > numbers[lastIndex - 1])
                 Console.WriteLine($"The local max: {numbers[lastIndex]}");
-            else
-                Console.WriteLine($"The local max: {numbers[lastIndex - 1]}");
         }
     }
 }
