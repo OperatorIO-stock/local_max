@@ -7,7 +7,7 @@ class Program
         int rangeNumberMax = 101;
         int rangeNumberMin = 1;
 
-        int[] numbers = new int [13];
+        int[] numbers = new int[13];
         Random random = new Random();
 
         int lastIndex = numbers.Length - 1;
@@ -23,7 +23,7 @@ class Program
         if (numbers[0] > numbers[1])
             Console.WriteLine($"The local max: {numbers[0]}");
 
-        for (int i = 1; i < lastIndex - 1; i++)
+        for (int i = 1; i < lastIndex; i++)
         {
             if (numbers[i] > numbers[i - 1])
             {
